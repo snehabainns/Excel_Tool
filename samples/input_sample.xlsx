@@ -1,0 +1,10 @@
+| ID | Name    | Department | Salary | Bonus | Join Date  | Status   |
+| -- | ------- | ---------- | ------ | ----- | ---------- | -------- |
+| 1  | Alice   | HR         | 50000  | 5000  | 2021-02-15 | Active   |
+| 2  | Bob     | Finance    | 60000  | 7000  | 2020-07-10 | Active   |
+| 3  | Charlie | HR         | 50000  | 5000  | 2021-02-15 | Active   |
+| 4  | David   | IT         | 70000  | 8000  | 2022-01-05 | Inactive |
+| 5  | Eve     | Finance    | 60000  | 7000  | 2020-07-10 | Active   |
+| 6  | Frank   | IT         | 70000  | 8000  | 2023-03-21 | Active   |
+| 7  | Grace   | HR         | 55000  | 5500  | 2021-09-30 | Active   |
+| 8  | Henry   | Finance    | 62000  | 7500  | 2019-11-11 | Inactive |
